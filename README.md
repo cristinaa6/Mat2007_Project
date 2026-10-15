@@ -1,8 +1,6 @@
 # Mat2007_Project
 This is the project for my Intro to Programming class.
 
-PERCENTAGE OF FEMALE MINISTERS IN GOVERNMENTS OVER TIME
-
 This project analyses the share of women among ministers in 193 countries between 2005 and 2024. It produces two plots: the worldwide average over time, and a comparison of World Bank regions in the year with the highest world average.
 
 
